@@ -1,7 +1,7 @@
 # This is the BUILD target, do not remove it, and do not modify it's name
 .PHONY: jupyterlab-build
 jupyterlab-build:
-	pip install -r ${LABS_DIR}/requirements.txt
+	pip install -r requirements.txt
 
 # This is the RUN target, do not remove it, and do not modify it's name
 .PHONY: jupyterlab-run
