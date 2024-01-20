@@ -1,0 +1,1 @@
+The dataset is a collection of text entries, each associated with a sentiment label. The text entries are business-related news snippets, containing information about company performance, production changes, sales figures, and profitability. Each snippet concludes with a sentiment tag that classifies the statement as either 'neutral', 'positive', or 'negative'. 
